@@ -1,5 +1,5 @@
 # 💫 Hi I'm Tejas Tayde! 
-### <br><br>- ♟ Computer Engineer sharing about my journey and learnings in Tech<br> - 🎓Studied at SPPU Pune, India💝 <br>- 🔭 I’m currently working on Cybersecurity Skills and API's <br>- 🌱 I’m currently learning about Threat Intelligence<br>- 👯 I’m looking to collaborate on Devlopement Projects💻<br>- 🤔 I’m looking for freelancing📩<br>- 💬 Experience as Devloper in Python, threat intelligence, Web Sracping, Web Devloper(HTML, CSS, JS)<br>- <br>- 📫 To reach me: tejastayade03@gmail.com
+### <br><br>- ♟ AI-Driven Security Professional <br> - 🎓Studied at SPPU Pune, India💝 <br>- 🔭 I’m currently working on Cybersecurity Skills and API's <br>- 🌱 I’m currently learning about Threat Intelligence<br>- 👯 I’m looking to collaborate on Cybersecurity Devlopement Projects💻<br>- 🤔 I’m looking for freelancing📩<br>- 💬 Experience as Devloper in Python, threat intelligence, Web Sracping, Web Devloper(HTML, CSS, JS)<br>- <br>- 📫 To reach me: tejastayade03@gmail.com
 
 
 # 💻 Tech Stack:
